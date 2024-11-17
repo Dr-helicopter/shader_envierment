@@ -1,5 +1,3 @@
-#version 330 core
-
 uniform float Time;
 uniform vec2 Resolution;
 
